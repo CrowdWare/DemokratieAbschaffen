@@ -1,7 +1,7 @@
 import FlatSiteBuilder 2.0
 
 Site {
-   title: 'web'
+   title: 'Demokratie Abschaffen'
    theme: 'bs5'
    description: ''
    copyright: ''
